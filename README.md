@@ -4,6 +4,6 @@ This is a Jupyter Notebook that provides the pipeline that is required to make s
 
 ## Citation
 
-Although the use of the available resources is free, a citation to the creators of the dataset is considered necessary. So if **SeAC dataset** is used as a whole or as a part of a project, we would encourage to reference to:
+Although the use of the available resources is free, a citation to the creators of the dataset is considered necessary. So if this coding examople is used as a whole or as a part of a project, we would encourage to reference to:
 
-**[1]** Gavros, A., Demetriadis, S. and Tefas, A. _A dataset dor sentiment and art movement classification of paintings._ (2022)
+**[1]** Gavros, A., Demetriadis, S. and Tefas, A. _Deep Learning in Artworks: From Art Genre Classification to Sentiment Analysis._ (2022)
