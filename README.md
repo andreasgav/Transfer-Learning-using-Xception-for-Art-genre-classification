@@ -1,6 +1,10 @@
 # Transfer-Learning-using-Xception-for-Art-genre-classification
 
-This is a Jupyter Notebook that provides the pipeline that is required to make series of tests in order to find the best Convolutional Neural Network classifier in art genre. The code is written in Pythton and is based on Tensorflow. I am using Sentiment and Art Class Dataset, abbreviated as the _SeAC dataset_ [link](https://github.com/andreasgav/SeAC).
+This is a Jupyter Notebook that provides the pipeline that is required to make series of tests in order to find the best Convolutional Neural Network classifier in art genre. The code is written in Pythton and is based on Tensorflow. In this work Sentiment and Art Class Dataset is used, abbreviated as the _SeAC dataset_ [link](https://github.com/andreasgav/SeAC).
+
+In this example Xception model is used, in order to be adopted to the available database. Xception is among the best avaialble pre-trained models for Image Classification. In the example that is provided, the model is able of achieving an accuracy rate of approximately 80% in an unknown sample of images. 
+
+It should be noted that the code in this repository is a part of a project where a big number of different network architectures, were examined in order to find the optimal model for painting classification, so the reader should bear in mind that this script may best work as a part of extensive tests. 
 
 ## Citation
 
